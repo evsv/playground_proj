@@ -17,8 +17,22 @@ def evs_do_stuff(e, v, s):
     return vish
 
 def mcstern_do_stuff(a, s):
+    """[summary]
+    
+    :param a: a
+    :type a: int
+    :param s: s
+    :type s: int
+    :return: helllll_yeah
+    :rtype: int
+    """
 
-    return None
+
+    print("hyuck!")
+
+    hyuck_hyuck = a + s 
+    dab = 2
+    return hyuck_hyuck*dab
 
 def hairness_do_stuff(h, y, c):
 
