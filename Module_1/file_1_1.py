@@ -67,5 +67,5 @@ def hairness_mcstern_conflict(d, b, z):
     :return: [description]
     :rtype: [type]
     """
-
+    print("memes are overrated")
     return None
