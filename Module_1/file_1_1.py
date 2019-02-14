@@ -21,6 +21,20 @@ def mcstern_do_stuff(a, s):
     return None
 
 def hairness_do_stuff(h, y, c):
+    """
+    Says hi to her hairness.
+    
+    :param h: x
+    :type h: str
+    :param y: y
+    :type y: int
+    :param c: z
+    :type c: rawr
+    :return: Nothing
+    :rtype: None
+    """
+
+    print('sup hairness!')
 
     return None
 
