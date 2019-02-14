@@ -47,11 +47,13 @@ def hairness_mcstern_conflict(d, b, z):
     :param d: [description]
     :type d: [type]
     :param b: [description]
-    :type b: [type]
+    :type b: xxxxxxxxxxxxx
     :param z: [description]
     :type z: [type]
-    :return: [description]
+    :return: RAWR
     :rtype: [type]
     """
+
+    print('Your Hyuck is not good enough...')
 
     return None
